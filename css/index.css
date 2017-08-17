@@ -6,13 +6,23 @@
     justify-content:space-around;
 }
 
+#showcase {
+    background-image:url(../images/blurry_beside_harp.jpg);
+    background-size:cover;
+    background-position:center;
+    height:90vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+
 .box {
     text-align:center;
 }
 
 .box a{
     text-decoration:none;
-    color:#000;
+    color:#FFF;
 }
 
 /* }}} end Image links */
