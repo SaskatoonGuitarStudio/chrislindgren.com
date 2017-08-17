@@ -1,0 +1,110 @@
+
+/* Global {{{*/
+body {
+    font: 15px Arial, Helvetica, sans-serif;
+    padding:0;
+    margin:0;
+    background:#eee;
+}
+
+.container {
+    width:70%;
+    margin:auto;
+}
+
+ul {
+    margin:0;
+    padding:0;
+}
+
+ul li{
+    list-style:none;
+}
+
+/* }}} end Global */
+
+/* Header {{{*/
+header {
+    background: #222;
+    color:#fff;
+    padding-top:15px;
+    min-height:50px;
+    border-bottom:#92b558 solid 5px;
+}
+
+header #branding{
+    float:left;
+}
+
+header #branding h1{
+    margin:0;
+    text-decoration:none;
+    color:#fff;
+}
+
+header #branding a{
+    text-decoration:none;
+}
+
+/* Header Nav links {{{*/
+header nav a{
+    color:#fff;
+    text-decoration:none;
+    font-size:20px;
+}
+
+header nav .current a{
+    color:#92b558;
+}
+
+header nav a:hover {
+    color:#b9d095; /* Change? */
+}
+
+header nav li{
+    float:left;
+    display:inline;
+    padding:10px 10px 0 10px;
+}
+
+header nav{
+    float:right;
+}
+/* }}} end header nav links */
+
+/* }}} end Header */
+
+/* Page title {{{ */
+.page-title img, .page-title h1{
+    margin:auto;
+    display:block;
+    text-align:center;
+    padding-top:10px;
+}
+/* }}} end Page title */
+
+/* Contact information {{{ */
+
+#contact{
+    text-align:center;
+    background: #222;
+    color:#fff;
+    padding: 2px 0 2px 0;
+    line-height:0.5em;
+}
+
+#contact a{
+    color:#fff;
+}
+
+/* }}} end contact information */
+
+/* Footer {{{ */
+footer {
+    /* padding:5px; */
+    /* background:#222; */
+    /* color:#fff; */
+    text-align:center;
+}
+
+/* }}} end Footer */
