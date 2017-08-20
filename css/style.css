@@ -74,14 +74,27 @@ header nav{
 
 /* }}} end Header */
 
-/* Page title {{{ */
+/* Page Elements {{{ */
 .page-title img, .page-title h1{
     margin:auto;
     display:block;
     text-align:center;
     padding-top:10px;
 }
-/* }}} end Page title */
+
+.page-image {
+    display:block;
+    float:left;
+    width:30%;
+}
+
+.page-text {
+    display:block;
+    float:right;
+    width:70%;
+}
+
+/* }}} end Page Elements */
 
 /* Contact information {{{ */
 
