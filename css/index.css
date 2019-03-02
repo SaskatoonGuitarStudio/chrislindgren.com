@@ -4,6 +4,7 @@
     padding: 20px 0 20px 0;
     display:flex;
     justify-content:space-around;
+    flex-direction:row;
 }
 
 #showcase {
@@ -27,3 +28,16 @@
 
 /* }}} end Image links */
 
+/* Responsive media triggers {{{ */
+@media(max-width: 768px) {
+    #image-links {
+        flex-direction:column;
+    }
+
+    #showcase {
+        height:90%
+    }
+
+}
+
+/* }}} end Responsive*/

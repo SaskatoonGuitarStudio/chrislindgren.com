@@ -124,3 +124,15 @@ footer {
 }
 
 /* }}} end Footer */
+
+/* Responsive media triggers {{{ */
+@media(max-width: 1050px) {
+    header #branding,
+    header nav,
+    header nav li{
+        float:none;
+        text-align:center;
+        width:100%
+    }
+}
+/* }}} end Responsive*/
