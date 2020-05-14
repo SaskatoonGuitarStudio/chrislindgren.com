@@ -1,0 +1,10 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Chris Lindgren"
+theme = "lindgren"
+MetaDataFormat = "toml"
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
