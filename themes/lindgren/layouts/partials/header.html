@@ -1,7 +1,7 @@
 <header>
     <div class="container">
         <div id="branding">
-            <a href={{ .Site.BaseURL }}>
+            <a href="{{ .Site.Home.RelPermalink }}">
                 <h1>Chris Lindgren</h1>
             </a>
         </div>
@@ -9,10 +9,10 @@
             <ul>
                 {{ $p := . }}
                 {{ range .Site.Pages.ByWeight  }}
-                    {{ $current := eq $p.Permalink .Permalink}}
-                    {{ if and (eq .Type "page") (not (eq .Permalink .Site.BaseURL ))}}
+                    {{ $current := eq $p.RelPermalink .RelPermalink}}
+                    {{ if and (eq .Type "page") (not (eq .RelPermalink .Site.Home.RelPermalink ))}}
                     <li {{ if $current }} class="current" {{ end }}>
-                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
                     </li>
                     {{ end }}
                 {{ end }}

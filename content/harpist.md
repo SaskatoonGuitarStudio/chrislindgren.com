@@ -24,7 +24,7 @@ Available on very short notice, but a week's notice or more would be appreciated
 Chris also plays in a harp-guitar duo with Saskatoon Classical guitarist, Walter Hofmeister
 and they are available for weddings and background music events as well.
 
-She can be heard on her latest CD [Harp for Dessert](cd).
+She can be heard on her latest CD [Harp for Dessert](/cd/).
 Her first album, "Winter Harp" (1991), is no longer available.
 
 Chris is a member of the [International Society of Folk Harpers and Craftsmen](http://www.folkharpsociety.org).
