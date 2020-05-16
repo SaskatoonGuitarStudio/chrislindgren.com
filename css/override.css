@@ -1,0 +1,13 @@
+img[alt=title-img] {
+    margin:auto;
+    display:block;
+    text-align:center;
+    width: 30%;
+}
+
+img[alt=title-img-noresize] {
+    margin:auto;
+    display:block;
+    text-align:center;
+}
+

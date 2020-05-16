@@ -1,0 +1,43 @@
+
+/* Image links {{{ */
+#image-links {
+    padding: 20px 0 20px 0;
+    display:flex;
+    justify-content:space-around;
+    flex-direction:row;
+}
+
+#showcase {
+    background-image:url(../images/blurry_hands.jpg);
+    background-size:cover;
+    background-position:center;
+    height:90vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+
+.box {
+    text-align:center;
+}
+
+.box a{
+    text-decoration:none;
+    color:#FFF;
+}
+
+/* }}} end Image links */
+
+/* Responsive media triggers {{{ */
+@media(max-width: 768px) {
+    #image-links {
+        flex-direction:column;
+    }
+
+    #showcase {
+        height:90%
+    }
+
+}
+
+/* }}} end Responsive*/
