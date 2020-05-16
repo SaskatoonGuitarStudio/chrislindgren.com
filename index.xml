@@ -1,6 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chris Lindgren</title><link>/</link><description>Recent content on Chris Lindgren</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Harpist</title><link>/harpist/</link><pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate><guid>/harpist/</guid><description>Chris Lindgren has been playing harp professionally since 1983. In the earlier years she played various festivals and concerts across Western Canada, but now focuses on events in the Saskatoon area. She has played for hundreds of weddings, receptions, banquets in all the major venues in Saskatoon.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Lindgren</title>
+    <link>/</link>
+    <description>Recent content on Chris Lindgren</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Harpist</title>
+      <link>/harpist/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/harpist/</guid>
+      <description>Chris Lindgren has been playing harp professionally since 1983. In the earlier years she played various festivals and concerts across Western Canada, but now focuses on events in the Saskatoon area. She has played for hundreds of weddings, receptions, banquets in all the major venues in Saskatoon.
 Her extensive repertoire includes timeless medieval and Renaissance melodies, elegant classical pieces, to lively Celtic tunes.
-Chris can provide her own sound system for most events.</description></item><item><title>Lessons</title><link>/lessons/</link><pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate><guid>/lessons/</guid><description>Chris has been teaching private harp lessons in Saskatoon since 1986. One of the first things that students need is information on where to get an instrument. Having built two harps, Chris is in a unique position to advise beginners on what to look for in an instrument and where to find them!
-Through her years of teaching experience she is well qualified to teach students proper technique to avoid injury as well as effective practice methods leading to efficient progress.</description></item><item><title>Storyteller</title><link>/storyteller/</link><pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate><guid>/storyteller/</guid><description>Chris began working as a full time professional storyteller and musician in 1983. Since that time she has toured all over Western Canada, doing over 3,000 performances for schools, libraries and other groups. She has performed for all ages at coffee houses, festivals and concerts in a variety of settings.
-Chris has been awarded grants from both the Canada Council and the Saskatchewan Arts Board, and is well respected in the larger storytelling community.</description></item><item><title>CD</title><link>/cd/</link><pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate><guid>/cd/</guid><description>Sit back and enjoy your favorite dessert, while listening to these luscious instrumentals on solo harp or duets with harp and classical guitar. The menu includes something for every taste, with a bit of Classical, Renaissance, Celtic and Contemporary Folk music. Bon Appetit.
-To order this album, send a cheque or money order made payable to Chris Lindgren for $20.00 for the first album, ($18.00 for each additional copy) to:</description></item><item><title>Media</title><link>/media/</link><pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate><guid>/media/</guid><description/></item></channel></rss>
+Chris can provide her own sound system for most events.</description>
+    </item>
+    
+    <item>
+      <title>Lessons</title>
+      <link>/lessons/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/lessons/</guid>
+      <description>Chris has been teaching private harp lessons in Saskatoon since 1986. One of the first things that students need is information on where to get an instrument. Having built two harps, Chris is in a unique position to advise beginners on what to look for in an instrument and where to find them!
+Through her years of teaching experience she is well qualified to teach students proper technique to avoid injury as well as effective practice methods leading to efficient progress.</description>
+    </item>
+    
+    <item>
+      <title>Storyteller</title>
+      <link>/storyteller/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/storyteller/</guid>
+      <description>Chris began working as a full time professional storyteller and musician in 1983. Since that time she has toured all over Western Canada, doing over 3,000 performances for schools, libraries and other groups. She has performed for all ages at coffee houses, festivals and concerts in a variety of settings.
+Chris has been awarded grants from both the Canada Council and the Saskatchewan Arts Board, and is well respected in the larger storytelling community.</description>
+    </item>
+    
+    <item>
+      <title>CD</title>
+      <link>/cd/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/cd/</guid>
+      <description>Sit back and enjoy your favorite dessert, while listening to these luscious instrumentals on solo harp or duets with harp and classical guitar. The menu includes something for every taste, with a bit of Classical, Renaissance, Celtic and Contemporary Folk music. Bon Appetit.
+To order this album, send a cheque or money order made payable to Chris Lindgren for $20.00 for the first album, ($18.00 for each additional copy) to:</description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>/media/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/media/</guid>
+      <description>      </description>
+    </item>
+    
+  </channel>
+</rss>
